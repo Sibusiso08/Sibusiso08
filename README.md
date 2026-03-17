@@ -1,85 +1,60 @@
-<h1 align="center">Hi, I'm Deven Mbuyane 👋</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Excel • Tableau • Power BI • Python | Lifelong Learner | Problem Solver</h3>
+# Hi, I'm Deven
+
+I'm a self-taught data analyst based in South Africa, focused on turning messy data into clear, business-ready insights. I got into analytics by teaching myself the tools, building real projects, and figuring things out as I went — and I haven't stopped since.
 
 ---
 
-## 🧠 About Me
+## Background
 
-I'm an entry-level **Data Analyst** based in South Africa with a growing portfolio of real-world business analytics projects. I use tools like **SQL, Excel, Tableau, Power BI**, and increasingly **Python** to transform raw data into meaningful insights.
+My journey into data started outside of a traditional classroom. I built my skills through self-study, hands-on projects, and a genuine curiosity about how data can tell a story. My background in logistics gave me an early appreciation for operational data — tracking performance, identifying inefficiencies, and finding patterns that drive better decisions.
 
-Certified in **Google Data Analytics** and **Microsoft Azure**, I specialize in breaking down complex data sets into actionable reports that non-technical stakeholders can understand and act on.
-
-I believe data should **tell a story**—and that every chart, table, or query should drive decisions, not just decorate a slide.
+Over time I expanded into other domains, including SaaS financials and AI job market trends, always with the same goal: make the data useful and understandable.
 
 ---
 
-## 🧰 Tech Stack
+## Tools & Tech Stack
 
-- **Languages:** SQL (MySQL), Python (Pandas, Matplotlib), R (basic)
-- **Data Viz Tools:** Tableau, Power BI, Excel Dashboards
-- **Databases:** MySQL, SQLite
-- **Other:** Git, Microsoft 365, VS Code, Jupyter Notebooks
+**Languages & Querying**
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL (SQLite)
 
----
+**Visualisation & Reporting**
+- Power BI
+- Streamlit
+- Matplotlib / Seaborn
 
-## 🚀 Featured Projects
-
-🌟 **[Bike Sales Demographic Analysis](https://github.com/Sibusiso08/Projects/blob/main/Bike%20Sales%20Excel%20Project.xlsx)**  
-📊 Excel Dashboard | 👥 Customer Segmentation  
-Analyzed demographic and income data to determine which customer groups are most likely to purchase bikes. Delivered insights to guide targeted marketing.
-
-🌟 **[Coffee Sales Dashboard](https://github.com/Sibusiso08/COFFEE-SALES-PROJECT)**  
-📈 Tableau + Excel | ☕ Sales & Time Trends  
-Built a dashboard to explore product performance, identify peak hours, and provide store-specific sales recommendations.
-
-🌟 **[Restaurant Orders (MySQL)](https://github.com/Sibusiso08/Restaurant-Orders-MySQL-Project)**  
-🍽 SQL Queries | 🔎 Menu Performance  
-Used relational queries to find the most popular dishes, top-spending customers, and busiest hours.
-
-🌟 **[Company Financial Dashboard](https://github.com/Sibusiso08/Company-Financials-Microsoft-Excel-Project)**  
-💵 Excel Reporting | 📊 Profitability Tracking  
-Created a quarterly financial performance dashboard to monitor trends in revenue, expenses, and margin.
-
-🌟 **[Layoffs SQL Analysis](https://github.com/Sibusiso08/Projects/blob/main/LAYOFFS%20MYSQL%20PROJECT.sql)**  
-🧨 Workforce Trends | SQL Reporting  
-Explored global layoff trends by industry, company size, and time. Insights support risk modeling for HR and job seekers.
+**Other**
+- Git & GitHub
+- Excel
 
 ---
 
-## 🎯 What I'm Working On
+## Projects
 
-- Building a full **Python-based project** analyzing layoffs and job market volatility
-- Strengthening skills in **data storytelling, dashboard UX**, and **predictive modeling**
-- Preparing to contribute to **open-source** data-related projects
-- Actively applying for **junior data analyst** roles and freelance gigs
+Here are some of the projects I've built:
 
----
+**[Logistics & Fleet Operations Analysis](https://github.com/Sibusiso08/logistics-operations-analysis)**
+An end-to-end analysis of fleet performance across 85,000+ trips and $298M in revenue (2022–2024). Built using SQL for data extraction and Python for visualisation, with a multi-panel Matplotlib dashboard.
 
-## 🧩 Certifications
+**Global AI Job Market & Salary Trends (2025)**
+An exploratory analysis of the AI job market using a Kaggle dataset. Covers salary distribution, in-demand roles, remote work trends, and experience-level breakdowns across industries and regions.
 
-- 🏅 Google Advanced Data Analytics (in progress)
-- 🧠 Google Analytics Certified
-- ☁ Microsoft Azure Fundamentals (in progress)
+More projects are available on my [GitHub profile](https://github.com/Sibusiso08).
 
 ---
 
-## 📫 Let's Connect
+## What I'm Working On
 
-- 🌍 Portfolio: [https://sibusiso08.github.io/DevenMbuyane.github.io/](https://sibusiso08.github.io/DevenMbuyane.github.io/)
-- 🧑‍💼 LinkedIn: [linkedin.com/in/devenmbuyane](https://www.linkedin.com/in/devenmbuyane/)
-- 💌 Email: devenmbuyane@gmail.com
-- 💾 GitHub: [github.com/Sibusiso08](https://github.com/Sibusiso08)
-
----
-
-## 🤝 Let's Build Something Meaningful
-
-I’m always open to:
-- Freelance data work
-- Volunteer projects for nonprofits or small businesses
-- Collaborations with other data enthusiasts
-
-> “Great data doesn’t just inform — it inspires action.”
+- Expanding my project portfolio with more business-focused case studies
+- Improving my Power BI and dashboard storytelling skills
+- Actively job searching for a Data Analyst role where I can contribute from day one
 
 ---
 
+## Let's Connect
+
+I'm open to Data Analyst opportunities in South Africa — remote, or on-site/hybrid in Gauteng or KwaZulu-Natal.
+
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(update this link)*
+- Portfolio: *(add your personal website link here)*
+- GitHub: [github.com/Sibusiso08](https://github.com/Sibusiso08)
