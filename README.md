@@ -55,6 +55,6 @@ More projects are available on my [GitHub profile](https://github.com/Sibusiso08
 
 I'm open to Data Analyst opportunities in South Africa — remote, or on-site/hybrid in Gauteng or KwaZulu-Natal.
 
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(update this link)*
-- Portfolio: *(add your personal website link here)*
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/devenmbuyane/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWliRCmFMRNCmua68WfIVhw%3D%3D)
+- Portfolio: *(https://sibusiso08.github.io/DevenMbuyane.github.io/)*
 - GitHub: [github.com/Sibusiso08](https://github.com/Sibusiso08)
